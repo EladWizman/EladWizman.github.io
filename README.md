@@ -5,4 +5,3 @@
 ![](https://ynet-pic1.yit.co.il/picserver5/crop_images/2022/08/04/r1Cn4AOa9/r1Cn4AOa9_0_202_959_540_0_large.jpg)
 
 [WebSite link](EladWizman.github.io)
-[Static web design](https://jamstack.org/generators/)
